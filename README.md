@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Fernando Godoy
 
-- 🌱 Estudando Html, Css, Python, PHP e javascript
+
 - 📫 Contate-me no email: fer2003.godoy@hotmail.com
 
 <div>
